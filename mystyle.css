@@ -12,7 +12,7 @@ body {
       margin-right: 10px;
 }
 h1 {
-  color: #ffc34d;
+  color: #eea10a;
    padding: 1em;
     border-width: 10px;
     border-style: solid;
@@ -31,7 +31,7 @@ p {
     font-size: 100%;
 }
 h2 {
-  color: #ffc34d;
+  color: #eea10a;
    padding: 1em;
    border-width: 10px;
    border-style: solid;
@@ -40,7 +40,7 @@ h2 {
    text-align: center;
 }
 h3 {
-  color:  #ffc34d;
+  color: #eea10a;
    padding: 1em;
     border-width: 10px;
     border-style: solid;
